@@ -38,7 +38,7 @@ Para que este rode em sua máquina, siga os passos abaixo:
 $ git clone https://github.com/vinicyusAbreu/Windbnb.git
 
 # Entre no repositório
-$ cd todo-app
+$ cd Windbnb
 
 #Instale as dependências digitando no termimal:
 $ npm install
